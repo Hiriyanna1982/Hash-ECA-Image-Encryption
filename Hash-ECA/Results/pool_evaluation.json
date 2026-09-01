@@ -1,0 +1,83 @@
+{
+  "A": {
+    "size": 2,
+    "rules": [
+      30,
+      45
+    ],
+    "mean_pairwise_distance": 0.5,
+    "mean_complementarity": 1.0,
+    "avg_distinct_outputs_per_seed": 1.99609375,
+    "redundancy_rate": 0.00390625
+  },
+  "B": {
+    "size": 3,
+    "rules": [
+      30,
+      45,
+      106
+    ],
+    "mean_pairwise_distance": 0.5,
+    "mean_complementarity": 1.0,
+    "avg_distinct_outputs_per_seed": 2.98828125,
+    "redundancy_rate": 0.005859375
+  },
+  "C": {
+    "size": 4,
+    "rules": [
+      30,
+      45,
+      106,
+      184
+    ],
+    "mean_pairwise_distance": 0.5,
+    "mean_complementarity": 1.0,
+    "avg_distinct_outputs_per_seed": 3.9765625,
+    "redundancy_rate": 0.0078125
+  },
+  "D": {
+    "size": 5,
+    "rules": [
+      30,
+      45,
+      106,
+      184,
+      134
+    ],
+    "mean_pairwise_distance": 0.525,
+    "mean_complementarity": 0.9,
+    "avg_distinct_outputs_per_seed": 4.9609375,
+    "redundancy_rate": 0.009765625
+  },
+  "E": {
+    "size": 6,
+    "rules": [
+      30,
+      45,
+      106,
+      184,
+      134,
+      73
+    ],
+    "mean_pairwise_distance": 0.5333333333333333,
+    "mean_complementarity": 0.8333333333333334,
+    "avg_distinct_outputs_per_seed": 5.953125,
+    "redundancy_rate": 0.009375
+  },
+  "F": {
+    "size": 7,
+    "rules": [
+      30,
+      45,
+      106,
+      184,
+      134,
+      73,
+      154
+    ],
+    "mean_pairwise_distance": 0.5119047619047619,
+    "mean_complementarity": 0.7857142857142857,
+    "avg_distinct_outputs_per_seed": 6.859375,
+    "redundancy_rate": 0.0234375
+  }
+}
