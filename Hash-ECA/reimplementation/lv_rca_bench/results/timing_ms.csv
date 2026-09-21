@@ -1,0 +1,11 @@
+image,encrypt_ms_mean,encrypt_ms_std,decrypt_ms_mean,decrypt_ms_std,roundtrip_ok,mismatched_bytes,warmup_runs,measured_runs
+Airplane,3816.854,36.390,3858.600,26.389,true,0,5,20
+Baboon,3941.721,59.769,4004.667,60.417,true,0,5,20
+Barbara,3916.815,31.463,3970.528,20.225,true,0,5,20
+Boats,3903.984,25.690,3965.197,35.031,true,0,5,20
+House,3925.029,36.224,3973.356,34.868,true,0,5,20
+Lena,3941.256,57.624,3983.652,45.388,true,0,5,20
+Monarch,3905.177,55.390,3953.934,49.144,true,0,5,20
+Pepper,3916.081,30.474,3978.327,52.963,true,0,5,20
+Sailboat,3931.266,28.675,3985.601,36.487,true,0,5,20
+Tiffany,3893.877,34.853,3934.606,31.336,true,0,5,20
